@@ -1,3 +1,3 @@
-# Fraud-Procesures
+# Fraud-Procedures
 
 Updated fraud training program.
